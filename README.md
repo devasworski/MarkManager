@@ -9,7 +9,7 @@ Semester 2
 
 Due: 30th april 2021.
 
-#### Final Mark: Distinction (??/100)
+#### Final Mark: Distinction (88/100)
 
 ## Assignment
 ...
